@@ -2,6 +2,27 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "QuantumUI",
+    "thumb": "quantumui/thumb.png",
+    "desc": "The most powerful NATIVE AngularJS and Bootstrap CSS based UI components make developer life easy",
+    "url": "http://quantumui.org",
+    "submitter": "uiquantum",
+    "submissionDate": "2015-03-18",
+    "tags": [
+      "Qauntumui",
+      "angular components",
+      "select",
+      "datepicker",
+      "scrollbar",
+      "nojq",
+      "ui components",
+      "modal",
+      "alert",
+      "tabs",
+      "bootstrap"
+    ]
+  },
+   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
